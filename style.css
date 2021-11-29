@@ -1,0 +1,27 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: coral;
+}
+.header_div{
+    color: crimson;
+    background-color: white;
+}
+.copy-right-footer{
+    position: fixed;
+    bottom: 0px;
+    color: red;
+    background-color: rosybrown;
+    line-height: 3;
+    text-align: center;
+    text-shadow: -5px 5px 3px red;
+font-size: 20px;
+width: 100%;
+}
+.main_div button{
+   font-family:cursive;
+   width: 130px;
+   margin-top: 30px;
+   letter-spacing: 6px;
+   font-weight: bolder; 
+   font-size: 30px;
+}
